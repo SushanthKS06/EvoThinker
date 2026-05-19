@@ -257,10 +257,6 @@ Detailed documentation is available in the `docs/` directory:
 - Built with [LangGraph](https://langchain-ai.github.io/langgraph/)
 - Uses [Hugging Face Transformers](https://huggingface.co/transformers/)
 
-## Contact
-
-For questions or collaborations, please open an issue or contact the maintainers.
-
 ---
 
 *Built for autonomous scientific discovery*
